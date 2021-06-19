@@ -1,3 +1,6 @@
 [submodule "GraAFLCollector"]
 	path = GraAFLCollector
 	url = https://github.com/NoG4Ek/GraAFLCollector
+[submodule "JBWJ"]
+	path = JBWJ
+	url = https://github.com/NoG4Ek/JBWJ

@@ -7,3 +7,6 @@
 [submodule "SortExceptions"]
 	path = SortExceptions
 	url = https://github.com/NoG4Ek/SortExceptions
+[submodule "WinAFLHarness"]
+	path = WinAFLHarness
+	url = https://github.com/NoG4Ek/WinAFLHarness/tree/master/WinAFLHarness

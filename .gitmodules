@@ -10,3 +10,6 @@
 [submodule "WinAFLHarness"]
 	path = WinAFLHarness
 	url = https://github.com/NoG4Ek/WinAFLHarness
+[submodule "ImageTest"]
+	path = ImageTest
+	url = https://github.com/NoG4Ek/ImageTest

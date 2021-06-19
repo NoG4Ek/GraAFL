@@ -4,3 +4,6 @@
 [submodule "JBWJ"]
 	path = JBWJ
 	url = https://github.com/NoG4Ek/JBWJ
+[submodule "SortExceptions"]
+	path = SortExceptions
+	url = https://github.com/NoG4Ek/SortExceptions

@@ -1,5 +1,5 @@
 # GraAFL
-![GraAFL](https://ibb.co/5M3hxmK)
+![GraAFL](https://github.com/NoG4Ek/GraAFL/blob/master/GraAFL.png)
 Java projects phasing tool in binary file format. GraAFL - combination of two instruments [Native-Image](https://www.graalvm.org/reference-manual/native-image/) + [WinAFL](https://github.com/googleprojectzero/winafl)
 
 ## How it works?
